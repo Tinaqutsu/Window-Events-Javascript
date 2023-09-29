@@ -3,10 +3,10 @@
 
  
 
-- [Frames and windows](#Frames-and-windows)
-- [Cross window Communication](#Cross-window-Communication)
-- [The Clickjacking Attack](#The-Clickjacking-Attack)
-- [ArrayBuffer and binary arrays](#ArrayBuffer-and-binary-arrays)
+[Frames and windows](#Frames-and-windows)
+ [Cross window Communication](#Cross-window-Communication)
+ [The Clickjacking Attack](#The-Clickjacking-Attack)
+ [ArrayBuffer and binary arrays](#ArrayBuffer-and-binary-arrays)
 
  
 
